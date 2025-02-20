@@ -1,4 +1,5 @@
-# -CLI-Node-R# CL# CLI Node Run Full Guide (PC and VPS for Both)Nexus-Labs-Node-Run-Full-Guide
+# CLI Node Run Full Guide (PC and VPS for Both)
+Nexus-Labs-Node-Run-Full-Guide
 Introduction
 Nexus Labs appears to be a multifaceted organization involved in various technological domains, particularly in blockchain, gaming, and smart buildings.
 
