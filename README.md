@@ -12,7 +12,7 @@ Smart Buildings: Nexus Labs also operates in the smart buildings technology spac
 
 Education and Community: They offer educational content through newsletters and courses, like "Nexus Foundations," which introduce people to the smart buildings industry. They also organize events like NexusCon, aimed at educational advancement without the commercial fluff. Technological Partnerships: Nexus Labs has partnerships with various entities to enhance their capabilities, such as with Hyperbolic Labs for decentralized compute and verifiable AI infrastructure, GAIB for AI Finance, and others for exploring solutions in blockchain technology and smart buildings.
 
-### Offical Docs by Pipe Network - https://docs.nexus.xyz/layer-1/testnet-ii/cli-node
+### Offical Docs - https://docs.nexus.xyz/layer-1/testnet-ii/cli-node
 
 1️⃣ Dependencies for WINDOWS & LINUX
 ```
