@@ -86,10 +86,3 @@ cd nexus-cli
 ```
 curl https://cli.nexus.xyz/ | sh
 ```
-
-
-🔶For Next Day Run This Command
-#1 Open WSL and Put this Command
-
-cd nexus-cli
-curl https://cli.nexus.xyz/ | sh
